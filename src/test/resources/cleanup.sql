@@ -1,0 +1,1 @@
+DELETE FROM device WHERE mac_address = 'a1-b2-c3-d4-e5-f6';
